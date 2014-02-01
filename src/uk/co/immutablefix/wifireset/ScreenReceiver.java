@@ -1,3 +1,5 @@
+// Copyright 2013 Shaun Simpson shauns2029@gmail.com
+
 package uk.co.immutablefix.wifireset;
 
 import android.content.BroadcastReceiver;
